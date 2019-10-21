@@ -25,6 +25,13 @@ Desafios do site [URI](https://www.urionlinejudge.com.br/judge/pt/problems/index
 | [1019](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)|
 | [1020](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)|
 | [1021](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)|
+| [1035](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)|
+| [1036](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)|
+| [1037](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)|
+| [1038](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)|
+| [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)|
+
+
 
 ### Observações
 Você pode encontrar os mesmos desafios resolvidos na **Linguagem Java** no meu repositório: [GIT](https://github.com/jamil2gomes/desafio-uri)
